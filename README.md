@@ -1,7 +1,6 @@
 
-```markdown
 <p align="center">
-  <img src="/ai-project-Regression_equipo4/src/images/Banner.png" alt="Banner Predictor de Precios" width="700px"/>
+  <img src="./src/images/Banner.png" alt="Banner Predictor de Precios" width="700px"/>
 </p>
 
 
@@ -50,7 +49,6 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ## 📎 Enlaces Útiles
 
 - [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4)  
-- [Aplicación Web] En proceso
 ---
 
 ## 🎯 Público Objetivo  
@@ -91,34 +89,41 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![Python](https://img.shields.io/badge/-Python-a50050?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-a50050?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-a50050?logo=pandas&logoColor=white)
-![Numpy] ()
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
+![DecisionTreeRegressor](https://img.shields.io/badge/-Decision%20Tree%20Regressor-034B60?style=flat&logo=scikit-learn&logoColor=white)
+
 
 
 ### 🌐 Frontend  
 
-![HTML5](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-a50050?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
 
 ## 📁 Estructura del Proyecto
 ```
 
-📦 Predictor\_Precios\_Coches  
-├── 📁 backend  
-│   └── 📁 data
-│   └── 📁 model
-│   └── 🗒️ main.py  
+📦 ai-project-Regression_equipo4
+├── 📁 datasets  
+│   └── 🗒️ predicted_prices_for_fronted.csv
+│   └── 🗒️ train.csv
+│   └── 🗒️ train_cleaned.csv 
 │
 ├── 📁 frontend
-│   └── 📁 css
-│   └── 📁 js
-│   └── 🗒️ index.html  
+│   └── 🗒️ app.py  
 │
-├── 🗒️ README.md  
-├── 🗒️ requirements.txt  
-├── 🗒️ .gitignore
+├── 📁 images
+|   └── 🗒️ Banner.png
+|
+|
+├── 📁 notebooks
+|   └── 🗒️ used-car-prices.ipynb
+|
+|
+├── 🗒️ .gitignore 
+├── 🗒️ README.md
+├── 🗒️ requirements.txt
 
 ```
 
@@ -130,7 +135,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ```
 
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-del-repo.git)
+git clone [https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git]
 cd nombre-del-repo
 
 ```
@@ -149,9 +154,12 @@ pip install -r requirements.txt
 
 ```
 
-# Para ejecutar la API con FastAPI
+# Para ejecutar la página web
 
-uvicorn backend.main:app --reload
+Ir a la carpeta fronted y en la terminal 
+
+ streamlit run app.py
+ 
 
 ```
 
