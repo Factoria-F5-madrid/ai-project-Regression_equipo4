@@ -105,17 +105,25 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ```
 
 📦 ai-project-Regression_equipo4
-├── 📁 backend  
-│   └── 📁 data
-│   └── 📁 model
-│   └── 🗒️ main.py  
+├── 📁 datasets  
+│   └── 🗒️ predicted_prices_for_fronted.csv
+│   └── 🗒️ train.csv
+│   └── 🗒️ train_cleaned.csv 
 │
 ├── 📁 frontend
 │   └── 🗒️ app.py  
 │
-├── 🗒️ README.md  
-├── 🗒️ requirements.txt  
-├── 🗒️ .gitignore
+├── 📁 images
+|   └── 🗒️ Banner.png
+|
+|
+├── 📁 notebooks
+|   └── 🗒️ used-car-prices.ipynb
+|
+|
+├── 🗒️ .gitignore 
+├── 🗒️ README.md
+├── 🗒️ requirements.txt
 
 ```
 
