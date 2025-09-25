@@ -1,14 +1,8 @@
+![Banner Predictor de Precios](images/Banner.png)
 
-<p align="center">
-  <img src="./src/images/Banner.png" alt="Banner Predictor de Precios" width="700px"/>
-</p>
+# Predictor de Precios de Vehículos Usados
 
-
-<h1 align="center"> Predictor de Precios de Vehículos Usados </h1>  
-
-<p align="center">
-  Proyecto de <strong>regresión</strong> para predecir los precios de coches de segunda mano, desarrollado utilizando un modelo de <strong>Machine Learning</strong> entrenado con datos reales.
-</p>
+**Proyecto de _regresión_ para predecir los precios de coches de segunda mano, desarrollado utilizando un modelo de _Machine Learning_ entrenado con datos reales.**
 
 ---
 
@@ -33,6 +27,8 @@
 Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión</strong> para estimar el precio de venta de coches de segunda mano. El modelo ha sido entrenado con un amplio conjunto de datos que incluye variables clave como la marca, el modelo, el año, el kilometraje, el tipo de motor y la condición del vehículo, entre otros. El objetivo es ofrecer una herramienta fiable tanto para vendedores que quieren fijar un precio justo como para compradores que desean verificar si una oferta es razonable.
 </p>  
 
+![screenshot](images/screenshot.png)
+
 ---
 
 ### ✨ Características  
@@ -48,7 +44,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ## 📎 Enlaces Útiles
 
-- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4)  
+- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4) 
 ---
 
 ## 🎯 Público Objetivo  
@@ -89,43 +85,33 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![Python](https://img.shields.io/badge/-Python-a50050?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-a50050?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-a50050?logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
-![DecisionTreeRegressor](https://img.shields.io/badge/-Decision%20Tree%20Regressor-034B60?style=flat&logo=scikit-learn&logoColor=white)
-
+![Numpy] ()
 
 
 ### 🌐 Frontend  
 
-![Streamlit](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-a50050?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
 
 ## 📁 Estructura del Proyecto
-```
 
-📦 ai-project-Regression_equipo4
-├── 📁 datasets  
-│   └── 🗒️ predicted_prices_for_fronted.csv
-│   └── 🗒️ train.csv
-│   └── 🗒️ train_cleaned.csv 
+📦 Predictor\_Precios\_Coches  
+├── 📁 backend  
+│   └── 📁 data
+│   └── 📁 model
+│   └── 🗒️ main.py  
 │
 ├── 📁 frontend
-│   └── 🗒️ app.py  
+│   └── 📁 css
+│   └── 📁 js
+│   └── 🗒️ index.html  
 │
-├── 📁 images
-|   └── 🗒️ Banner.png
-|
-|
-├── 📁 notebooks
-|   └── 🗒️ used-car-prices.ipynb
-|
-|
-├── 🗒️ .gitignore 
-├── 🗒️ README.md
-├── 🗒️ requirements.txt
-
-```
+├── 🗒️ README.md  
+├── 🗒️ requirements.txt  
+├── 🗒️ .gitignore
 
 ---
 
@@ -133,38 +119,25 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 🧪 1. Clonar Repositorio 
 
-```
-
-git clone [https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git]
-cd nombre-del-repo
-
-```
+git clone [https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git)
 
 📦 2. Instalar Requisitos
 
-```
-
 # Se requiere la versión de Python 3.8 o superior
 
+```
 pip install -r requirements.txt
-
 ```
 
-🚀 3. Ejecución del Backend
+🚀 3. Ejecución
 
 ```
-
-# Para ejecutar la página web
-
-Ir a la carpeta fronted y en la terminal 
-
- streamlit run app.py
- 
-
+cd frontend
+streamlit run app.py
 ```
 
 ---
-## 👩‍💻 Contribuidores
+## 👩‍💻 Contribuyentes
 
 | Nombre                  | GitHub                                                                                                                     | LinkedIn                                                                                                                                             |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -172,5 +145,4 @@ Ir a la carpeta fronted y en la terminal
 | **Ignacio Castillo Franco** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/IgnacioCastilloFranco)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-castillo-franco/)                   |
 | **Teo Ramos Ruano** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Argendion)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-ramos-ruano/)                   |
 | **Aroa Mateo Gómez** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Arowi95)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroamateogomez/)                   |
-
 ```
