@@ -85,14 +85,10 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![Python](https://img.shields.io/badge/-Python-a50050?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-a50050?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-a50050?logo=pandas&logoColor=white)
-![Numpy] ()
 
 
 ### 🌐 Frontend  
 
-![HTML5](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-a50050?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
 
