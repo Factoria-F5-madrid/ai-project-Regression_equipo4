@@ -113,8 +113,6 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 │   └── ridge.ipynb
 ├── 🗒️ README.md
 ├── 🗒️ requirements.txt
-*** End Patch
-
 ---
 
 ## ✍️ Instrucciones de Uso
