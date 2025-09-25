@@ -1,5 +1,4 @@
 
-
 ![Banner Predictor de Precios](images/Banner.png)
 
 # Predictor de Precios de Vehículos Usados
@@ -29,6 +28,8 @@
 Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión</strong> para estimar el precio de venta de coches de segunda mano. El modelo ha sido entrenado con un amplio conjunto de datos que incluye variables clave como la marca, el modelo, el año, el kilometraje, el tipo de motor y la condición del vehículo, entre otros. El objetivo es ofrecer una herramienta fiable tanto para vendedores que quieren fijar un precio justo como para compradores que desean verificar si una oferta es razonable.
 </p>  
 
+![screenshot](images/screenshot.png)
+
 ---
 
 ### ✨ Características  
@@ -44,8 +45,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ## 📎 Enlaces Útiles
 
-- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4)  
-- [Aplicación Web] En proceso
+- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4) 
 ---
 
 ## 🎯 Público Objetivo  
@@ -96,9 +96,8 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
-```
+
 ## 📁 Estructura del Proyecto
-```
 
 📦 Predictor\_Precios\_Coches  
 ├── 📁 backend  
@@ -115,43 +114,31 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ├── 🗒️ requirements.txt  
 ├── 🗒️ .gitignore
 
-```
-
 ---
 
 ## ✍️ Instrucciones de Uso
 
 🧪 1. Clonar Repositorio 
 
-```
-
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
-
-```
+git clone [https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git)
 
 📦 2. Instalar Requisitos
 
-```
-
 # Se requiere la versión de Python 3.8 o superior
 
+```
 pip install -r requirements.txt
-
 ```
 
-🚀 3. Ejecución del Backend
+🚀 3. Ejecución
 
 ```
-
-# Para ejecutar la API con FastAPI
-
-uvicorn backend.main:app --reload
-
+cd frontend
+streamlit run app.py
 ```
 
 ---
-## 👩‍💻 Contribuidores
+## 👩‍💻 Contribuyentes
 
 | Nombre                  | GitHub                                                                                                                     | LinkedIn                                                                                                                                             |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -159,5 +146,3 @@ uvicorn backend.main:app --reload
 | **Ignacio Castillo Franco** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/IgnacioCastilloFranco)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-castillo-franco/)                   |
 | **Teo Ramos Ruano** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Argendion)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-ramos-ruano/)                   |
 | **Aroa Mateo Gómez** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Arowi95)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroamateogomez/)                   |
-
-```
