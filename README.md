@@ -1,15 +1,11 @@
 
 ```markdown
-<p align="center">
-  <img src="/ai-project-Regression_equipo4/src/images/Banner.png" alt="Banner Predictor de Precios" width="700px"/>
-</p>
 
+![Banner Predictor de Precios](/ai-project-Regression_equipo4/src/images/Banner.png)
 
-<h1 align="center"> Predictor de Precios de Vehículos Usados </h1>  
+# Predictor de Precios de Vehículos Usados
 
-<p align="center">
-  Proyecto de <strong>regresión</strong> para predecir los precios de coches de segunda mano, desarrollado utilizando un modelo de <strong>Machine Learning</strong> entrenado con datos reales.
-</p>
+**Proyecto de _regresión_ para predecir los precios de coches de segunda mano, desarrollado utilizando un modelo de _Machine Learning_ entrenado con datos reales.**
 
 ---
 
