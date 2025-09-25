@@ -1,6 +1,6 @@
 
 
-![Banner Predictor de Precios](/ai-project-Regression_equipo4/src/images/Banner.png)
+![Banner Predictor de Precios](/ai-project-Regression_equipo4/images/Banner.png)
 
 # Predictor de Precios de Vehículos Usados
 
