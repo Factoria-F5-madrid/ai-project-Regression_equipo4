@@ -1,4 +1,3 @@
-
 ![Banner Predictor de Precios](images/Banner.png)
 
 # Predictor de Precios de Vehículos Usados
