@@ -96,9 +96,8 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
-```
+
 ## 📁 Estructura del Proyecto
-```
 
 📦 Predictor\_Precios\_Coches  
 ├── 📁 backend  
@@ -115,43 +114,34 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ├── 🗒️ requirements.txt  
 ├── 🗒️ .gitignore
 
-```
-
 ---
 
 ## ✍️ Instrucciones de Uso
 
 🧪 1. Clonar Repositorio 
 
-```
-
 git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-del-repo.git)
 cd nombre-del-repo
 
-```
-
 📦 2. Instalar Requisitos
-
-```
 
 # Se requiere la versión de Python 3.8 o superior
 
+```
 pip install -r requirements.txt
 
 ```
 
-🚀 3. Ejecución del Backend
+🚀 3. Ejecución
 
 ```
-
-# Para ejecutar la API con FastAPI
-
-uvicorn backend.main:app --reload
+cd frontend
+streamlit run app.py
 
 ```
 
 ---
-## 👩‍💻 Contribuidores
+## 👩‍💻 Contribuyentes
 
 | Nombre                  | GitHub                                                                                                                     | LinkedIn                                                                                                                                             |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -160,4 +150,3 @@ uvicorn backend.main:app --reload
 | **Teo Ramos Ruano** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Argendion)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-ramos-ruano/)                   |
 | **Aroa Mateo Gómez** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Arowi95)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroamateogomez/)                   |
 
-```
