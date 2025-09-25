@@ -44,8 +44,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ## 📎 Enlaces Útiles
 
-- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4)  
-- [Aplicación Web] En proceso
+- [Repositorio en GitHub](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4) 
 ---
 
 ## 🎯 Público Objetivo  
@@ -120,8 +119,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 🧪 1. Clonar Repositorio 
 
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
+git clone [https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git](https://github.com/Factoria-F5-madrid/ai-project-Regression_equipo4.git)
 
 📦 2. Instalar Requisitos
 
@@ -129,7 +127,6 @@ cd nombre-del-repo
 
 ```
 pip install -r requirements.txt
-
 ```
 
 🚀 3. Ejecución
@@ -137,7 +134,6 @@ pip install -r requirements.txt
 ```
 cd frontend
 streamlit run app.py
-
 ```
 
 ---
