@@ -96,7 +96,7 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a50050?logo=javascript&logoColor=white)
 
 ---
-
+```
 ## 📁 Estructura del Proyecto
 ```
 
