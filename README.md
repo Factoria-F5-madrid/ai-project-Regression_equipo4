@@ -89,6 +89,8 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ### 🌐 Frontend  
 
+![Streamlit](https://img.shields.io/badge/-HTML5-a50050?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-a50050?logo=css3&logoColor=white)
 
 ---
 
