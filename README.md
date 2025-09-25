@@ -1,5 +1,4 @@
 
-```markdown
 
 ![Banner Predictor de Precios](/ai-project-Regression_equipo4/src/images/Banner.png)
 
