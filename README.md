@@ -96,20 +96,24 @@ Este proyecto es una aplicación web que utiliza un modelo de <strong>regresión
 
 ## 📁 Estructura del Proyecto
 
-📦 Predictor\_Precios\_Coches  
-├── 📁 backend  
-│   └── 📁 data
-│   └── 📁 model
-│   └── 🗒️ main.py  
-│
+📦 ai-project-Regression_equipo4
+├── 📁 datasets
+│   ├── predicted_prices_for_frontend.csv
+│   ├── train_cleaned.csv
+│   └── train.csv
 ├── 📁 frontend
-│   └── 📁 css
-│   └── 📁 js
-│   └── 🗒️ index.html  
-│
-├── 🗒️ README.md  
-├── 🗒️ requirements.txt  
-├── 🗒️ .gitignore
+│   └── 🗒️ app.py
+├── 📁 images
+│   ├── Banner.png
+│   └── screenshot.png
+├── 📁 notebooks
+│   ├── lasso.ipynb
+│   ├── random_forest.ipynb
+│   ├── regression_tree.ipynb
+│   └── ridge.ipynb
+├── 🗒️ README.md
+├── 🗒️ requirements.txt
+*** End Patch
 
 ---
 
