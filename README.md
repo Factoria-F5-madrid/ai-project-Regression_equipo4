@@ -145,4 +145,3 @@ streamlit run app.py
 | **Ignacio Castillo Franco** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/IgnacioCastilloFranco)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-castillo-franco/)                   |
 | **Teo Ramos Ruano** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Argendion)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-ramos-ruano/)                   |
 | **Aroa Mateo Gómez** | [![GitHub](https://img.shields.io/badge/GitHub-a50050?logo=github&logoColor=white)](https://github.com/Arowi95)         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroamateogomez/)                   |
-=======
